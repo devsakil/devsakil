@@ -13,6 +13,7 @@ My name is Sakil Hossain, I am web and Mobile app developer from Dhaka, Banglade
 ## → I am interested in working with
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+<!-- 
  ## → Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsakil&show_icons=true&locale=en&layout=compact&theme=light&hide=javascript,html,makefile" alt="devsakil" /></p>
@@ -20,3 +21,6 @@ My name is Sakil Hossain, I am web and Mobile app developer from Dhaka, Banglade
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devsakil&show_icons=true&locale=en&theme=light" alt="devsakil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsakil&theme=light" alt="devsakil" /></p> 
+
+
+This is commented out. -->
